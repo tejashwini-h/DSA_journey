@@ -6,6 +6,6 @@ int main()
 
     cout<<"sum="<<a+b<<endl;
     avg=(a+b)/2;
-    cout<<"avg== "<<avg<<endl;
+    cout<<"avg == "<<avg<<endl;
     return 0;
-}    
+}   

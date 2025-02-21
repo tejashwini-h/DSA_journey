@@ -1,0 +1,5 @@
+//arithmetic = binary(+ _ * / %) unary(++ --)
+// relational = binary( < > <= >= == !=)
+// logical = binary(&&  ||) unary(!)
+// bitwise = binary(& | ^ ~ << >>) unary(~)
+// assignment = (= += -= etc )
