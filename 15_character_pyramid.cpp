@@ -9,6 +9,7 @@ int main()
         {
             cout<<ch++<<" ";
         }
+        
         cout<<endl;
     }
 }

@@ -8,7 +8,7 @@ int main()
     cout<<('a'+3)<<endl;// o/p= 100. Here a is converted to ascii value imlicitelt , 97+3=100
     cout<<('a'+3.0)<<endl;// o/p = 100.0
     cout<<(10/3.0)<<endl;/*implicite conversion , we never declared that we will
-    use doule and o/p shold ve in double but compiler did it */ 
+    use doule and o/p should be in double but compiler did it */ 
     int pi = 3.14;
     cout<<int(pi)<<endl;// o/p=3
     cout<<((float)10/3)<<endl; // o/p= 3.333
