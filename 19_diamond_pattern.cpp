@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int n=9;
+    int n=4;
      
     //1st pyramid
     for(int i=1;i<=n;i++) 
@@ -19,7 +19,7 @@ int main()
         cout<<endl;
     } 
    
-    //2nd pyramid
+   //2nd pyramid
     for(int i=n;i>=1;i--) 
     {   
         //spaces

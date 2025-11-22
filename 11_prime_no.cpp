@@ -29,7 +29,7 @@ int main()
     int n;
     cout<<"enter no ";
     cin>>n;
-    for(int i=2;i<sqrt(n);i++)
+    for(int i=2;i<sqrt(n);i++)// sqrt= here we use it to reduce a loop
     {
         if(n%i==0)
         {
