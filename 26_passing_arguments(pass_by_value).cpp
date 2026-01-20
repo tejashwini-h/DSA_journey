@@ -5,7 +5,7 @@ using namespace std;
 void changeA(int a)
 { 
     a=10;
-    //cout<<a<<endl;
+    cout<<a<<endl;
 
 }
 int main()

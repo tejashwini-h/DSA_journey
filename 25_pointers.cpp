@@ -9,7 +9,7 @@ int main()
     int *p=&a;
     cout<<sizeof(p)<<" is size is of p"<<endl;//op=8
     cout<<sizeof(a)<<" is size is of a"<<endl;//op=4
-    cout<<p<<" is address of a"<<endl;//op=address
+    cout<<p<<" is address of p"<<endl;//op=address
     cout<<&a<<" is the address of a"<<endl;//same output
     //////////////////////////
     cout<<*p<<endl;//dereferencing op=10
