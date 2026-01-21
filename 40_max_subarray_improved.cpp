@@ -3,7 +3,7 @@
 #include<math.h>
 using namespace std;
 void maxsubarraySum1(int *a,int n)
-{ int maxsum = 0; " __INT_MIN__";
+{ int maxsum =__FLT_MIN__;
 for(int i=0;i<n;i++)
 { int c=0;
     for(int j=i;j<n;j++) 

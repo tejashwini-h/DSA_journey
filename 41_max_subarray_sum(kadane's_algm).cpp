@@ -7,7 +7,7 @@ if ur current sum is less thn o thn reinitialize to 0  */
 #include<math.h>
 using namespace std;
 void maxsubarraySum1(int *a,int n)
-{ int maxsum =0; "__INT_MIN__";
+{ int maxsum =__FLT_MIN__;
 int c=0; 
 for(int i=0;i<n;i++)
 { 
