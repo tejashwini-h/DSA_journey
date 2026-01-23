@@ -1,4 +1,4 @@
-// pass by refernce: the address of the variable is passed to the function
+// pass by reference: the address of the variable is passed to the function
 //when we pass the reference of the argument to the function
 //the changes made in the function(changea) will reflect in the main function
 #include<iostream>

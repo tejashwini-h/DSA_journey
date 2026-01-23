@@ -6,7 +6,7 @@ int main()
     {
         cout<<"*";//first;
         for(int j=1;j<=3;j++)
-        {
+       {
             if(i == 1 || i == 4)
             {
                 cout<<"*";
@@ -15,9 +15,9 @@ int main()
             {
                 cout<<" ";
             }
-            }
+         }
         
         
             cout<<"*"<<endl;//last line
-        }
-     }
+    }
+}

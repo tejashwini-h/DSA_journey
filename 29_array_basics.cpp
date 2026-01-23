@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    int mark[10]={1,2,3};//int mark[]={1,2,3};i=3
+    int mark[5]={1,2,3};//int mark[]={1,2,3};i=3
     cout<<mark[0]<<endl;
     cout<<mark[1]<<endl;
     cout<<sizeof(mark)<<endl;//o/p=20...(4*5)

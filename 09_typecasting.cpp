@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     cout<<int('a')<<endl;//o/p = 97
-    cout<<('a'+3)<<endl;// o/p= 100. Here a is converted to ascii value imlicitelt , 97+3=100
+    cout<<('a'+3)<<endl;// o/p= 100. Here a is converted to ascii value implicite , 97+3=100
     cout<<('a'+3.0)<<endl;// o/p = 100.0
     cout<<(10/3.0)<<endl;/*implicite conversion , we never declared that we will
     use doule and o/p should be in double but compiler did it */ 
@@ -16,4 +16,4 @@ int main()
     cout<<char('a'+1)<<endl;// o/p = b
     
 }// bool -> char -> int -> float -> double 
-/*explicit convernsion : done by programmer */
+/*explicit conversion : done by programmer */

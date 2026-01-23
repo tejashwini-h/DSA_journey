@@ -25,7 +25,8 @@ for(int i=0;i<n;i++)
     cin>>arr[i];
 }*/
 int arr[8]={5,3,5,2,6,1,8,7};
-//sort(arr,arr+8);
+//sort(arr,arr+8);  for ascending order
+//sort(arr,arr+8,greater<int>()); for descending order
 printarr(arr,8);
 
 }

@@ -18,7 +18,7 @@ void changeA(int &a)
 }
 int main()
 {
-    int a=20;
+    int a=20; 
     changeA(a);
     cout<<a<<endl;
     return 0;

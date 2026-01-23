@@ -1,9 +1,9 @@
 // data types : 1. primitive
 //              2. derived(non primitive)
-//premitive data types : int , flote, char etc
+//premetive data types : int , flote, char etc
 //non primitive data types : array, pointer etc;
 //int : 4 bytes, 32 bits(1 byte = 8 bits)
-// flote : 4 bytes
+// float : 4 bytes
 // char : 1 byte
 // bool : 1 byte
 //double : 8 bytes

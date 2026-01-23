@@ -15,6 +15,6 @@ int main()
     cout<<*p<<endl;//dereferencing op=10
 }
 //a special variable which stores the address of another variable
-//dereferenc operator = gets the value of a variable pointed by pointer
+//dereference operator = gets the value of a variable pointed by pointer
 //null pointer=which is pointing to nothing
 //dereferencing a null pointer will give an error of segmentation fault

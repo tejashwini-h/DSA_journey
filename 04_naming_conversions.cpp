@@ -6,6 +6,6 @@ using namespace std;
 int main()
 {
     int a=5, b=10;// valid 
-   // int return = 12;//invlid as return is a keyword;
+   // int return = 12;//invalid as return is a keyword;
    }
 

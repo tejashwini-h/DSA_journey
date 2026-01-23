@@ -11,7 +11,7 @@ int main()
         if(a[i]>max)
         {
             max=a[i];
-            cout<<"assining value "<<a[i]<<" to max"<<endl;
+            //cout<<"assining value "<<a[i]<<" to max"<<endl;
         }
     }
         cout<<"largest value="<<" "<<max<<endl;

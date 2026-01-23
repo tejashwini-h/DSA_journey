@@ -22,7 +22,7 @@ int main()
     cout<<ptr[0];
 
     return 0;
-/* array mane can be converted to pointer 
+/* array name can be converted to pointer 
    when array is passed , it is passed by reference
    arr[] == *arr */
 

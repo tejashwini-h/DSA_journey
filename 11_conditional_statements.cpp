@@ -4,11 +4,11 @@
   }
   else{
         }*/
-// ternaty operator : variable = condition ? value1 : value2
+// ternary operator : variable = condition ? value1 : value2
 // eg : isadlute = age>=18 ? true : false;
 //switch statement : 
 // syntax : 
-/*        switch(experession)
+/*        switch(expression)
         {
             case1:
                 //code;

@@ -1,4 +1,4 @@
-//pass by value: the value of the variable is passsed to the function 
+//pass by value: the value of the variable is passed to the function 
 //when parameter is a copy of actual argument variable in memory
 #include<iostream>
 using namespace std;
