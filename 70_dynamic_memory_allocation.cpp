@@ -7,7 +7,7 @@
                    2) size should be decided at the begining
                    3) statically whatever is allocated , it is allocated in the main memory 
                    4) if stack frame/func(in which allocation is done) is removed from stack , thn it wll be removed from memory also
-                   4) if we have allocated in main , thn as mani is finished , the memory is also erased
+                   4) if we have allocated in main , thn as main is finished , the memory is also erased
 
 dynamic memory allocation : 1) allocation is done inside the heap memory allocation
                             2) allocated during the heap
